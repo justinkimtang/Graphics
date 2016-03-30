@@ -1,0 +1,9 @@
+hw2: 3D Objects
+
+Justin Tang
+
+Key bindings
+  m/M        Cycle through different sets of objects
+  arrows     Change view angle
+  0          Reset view angle
+  ESC        Exit

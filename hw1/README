@@ -1,0 +1,17 @@
+Assignment 1: Lorenz Attractor
+
+Justin Tang
+
+Create interactive model of Lorenz attractor
+
+Key bindings
+ 1	Plain View
+ 2	Interactive Graph
+        +/- Plot more/less points (mode 2 only)
+ 3	Graph View
+ 4/7    Increase/Decrease Value of s
+ 5/8    Increase/Decrease Value of b
+ 6/9    Increase/Decrease Value of r
+ arrows change view angle
+ 0 Reset view angle and all parameters
+ ESC   Exit
